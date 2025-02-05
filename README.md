@@ -19,6 +19,21 @@ This frontend application is designed to interact with the spring-boot Token Gen
 ##   Technologies Used:
 
 - React.js
+- Axios
+- React Router Dom
+- Styled Components
+- React-Router-Dom
+- React RTK Query (RTKQ)
+- Prototypes
+- React Helmet
+- React-Toastify
+- react icons
+- Lodash
+- Redux 
+- React-redux
+- Moment.js
+- Formik
+- Framer Motion
 
 ## Features
 

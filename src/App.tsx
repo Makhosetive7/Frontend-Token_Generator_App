@@ -1,9 +1,10 @@
 import React from 'react';
+import AllUser from './pages/admin/allUser';
 
 const App: React.FC = () => {
   return (
     <div>
-      <p>React App</p>
+      <AllUser />
     </div>
   );
 };
